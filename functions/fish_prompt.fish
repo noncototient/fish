@@ -1,0 +1,1 @@
+/Users/bo/.local/share/omf/themes/l/fish_prompt.fish
